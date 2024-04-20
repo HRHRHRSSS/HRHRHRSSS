@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=ffd700&height=180&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=130&section=header" />
 
 ### Hi there 👋
 
@@ -10,3 +10,5 @@
 - **🗒️ Blog** : https://velog.io/@shl4000/series
 - **💌 Mail** : shl4000@naver.com
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=130&section=footer" />
