@@ -5,7 +5,6 @@
 - 🔎 I’m interesed in Computer Vision, Sensor Data
 - 🌱 I’m currently learning Data Analysis
 
-- **Blog** : https://velog.io/@shl4000/series
-- **Mail** : shl4000@naver.com
+- **🗒️ Blog** : https://velog.io/@shl4000/series
+- **💌 Mail** : shl4000@naver.com
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=ffd700&height=100&section=footer" />
