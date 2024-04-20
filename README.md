@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=ffd4008&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=ffd400&height=150&section=header" />
 
 ### Hi there 👋
 
