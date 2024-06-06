@@ -2,10 +2,8 @@
 
 ### Hi there 👋
 
-- 💻 I’m interesed in Computer Vision, Sensor Data
 - 📊 I’m currently learning Data Analysis
-
-
+- 💻 I’m interesed in Computer Vision, Sensor Data
 
 - **🗒️ Blog** : https://velog.io/@shl4000/series
 - **💌 Mail** : shl4000@naver.com
