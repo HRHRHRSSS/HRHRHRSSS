@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&height=200&text=Welcome!%20👋&fontSize=70&animation=fadeIn&color=0:8871e5,100:b678c4&stroke=b678c4)
+![header](https://capsule-render.vercel.app/api?type=Venom&height=180&text=Welcome!%20👋&fontSize=60&animation=fadeIn&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 
 -------------
