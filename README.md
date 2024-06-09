@@ -11,7 +11,7 @@
 
 
 ### 🛠️ Tech Stack
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); height: 20px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); height: 20px;">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); height: 20px;">
@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); height: 20px;">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); height: 20px;">
 </div>
-
 
 ### 👥 Collaboration Tech
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">&nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">&nbsp;<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
