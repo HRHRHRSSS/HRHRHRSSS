@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/Python-61DAFB?style=for-the-badge&logo=Python&logoColor=black"><img src="https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/R-764ABC?style=for-the-badge&logo=R&logoColor=purple"><img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=white">
 
 ## ✔︎Collaboration Tech
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
