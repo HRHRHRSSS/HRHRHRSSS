@@ -10,8 +10,10 @@
 --------------
 
 
-### 🛠️ Tech Stack
 <div align="center">
+
+### 🛠️ Tech Stack
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="margin: 5px; height: 20px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" style="margin: 5px; height: 20px;">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" style="margin: 5px; height: 20px;">
@@ -32,12 +34,10 @@
 </div>
 
 ### 👥 Collaboration Tech
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin: 5px; height: 20px;">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" style="margin: 5px; height: 20px;">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" style="margin: 5px; height: 20px;">
 </div>
 
-
-### 👥 Collaboration Tech
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">&nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">&nbsp;<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+</div>
