@@ -2,15 +2,15 @@
 
 
 -------------
-- 📊 I’m currently learning Data Analysis
-- 💻 I’m interesed in Computer Vision, Sensor Data
+- 📊 I’m currently learning **Data Analysis**
+- 💻 I’m interesed in **Computer Vision, Sensor Data**
 
 - **🗒️ Blog** : https://velog.io/@shl4000/series
 - **💌 Mail** : shl4000@naver.com
 --------------
 
 
-## ✔︎Tech Stack
+### 🛠️ Tech Stack
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
@@ -26,5 +26,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
 </div>
 
-## ✔︎Collaboration Tech
+### 👥 Collaboration Tech
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">&nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">&nbsp;<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" style="margin: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
