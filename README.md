@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&height=200&text=Welcome!%20👋&fontSize=70&animation=fadeIn&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 
+-------------
 - 📊 I’m currently learning Data Analysis
 - 💻 I’m interesed in Computer Vision, Sensor Data
 
 - **🗒️ Blog** : https://velog.io/@shl4000/series
 - **💌 Mail** : shl4000@naver.com
-
+--------------
 
 
 ## ✔︎Tech Stack
