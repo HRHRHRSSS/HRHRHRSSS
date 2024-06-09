@@ -13,9 +13,6 @@
 <div align="center">
 
 ### 🛠️ Tech Stack
-<br>
-<hr style="width:50%;text-align:center;margin:auto;">
-<br>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="margin: 5px; height: 20px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" style="margin: 5px; height: 20px;">
@@ -37,9 +34,6 @@
 </div>
 
 ### 👥 Collaboration Tech
-<br>
-<hr style="width:50%;text-align:center;margin:auto;">
-<br>
 <div>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="margin: 5px; height: 20px;">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" style="margin: 5px; height: 20px;">
